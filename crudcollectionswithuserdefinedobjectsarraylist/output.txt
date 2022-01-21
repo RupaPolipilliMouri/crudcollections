@@ -1,0 +1,77 @@
+Enter the option number .....
+1.to add customer
+2.list all customers
+3.to delete the customer
+2
+List of customers......
+==================================================================
+customerId	customerName	customerEmail	customerPhn
+==================================================================
+Enter 'y' to continue the loop....
+y
+Enter the option number .....
+1.to add customer
+2.list all customers
+3.to delete the customer
+1
+Enter the Customer details
+Enter the Customer id
+803462
+Enter the Customer name
+Ryupa
+Enter the Customer Email
+rupamay1996@gmail.com
+Enter the Customer Phone number
+8523875041
+Enter 'y' to continue the loop....
+y
+Enter the option number .....
+1.to add customer
+2.list all customers
+3.to delete the customer
+1
+Enter the Customer details
+Enter the Customer id
+1265
+Enter the Customer name
+Rubbu
+Enter the Customer Email
+rubbu1996@gmail.com
+Enter the Customer Phone number
+9391390950
+Enter 'y' to continue the loop....
+y
+Enter the option number .....
+1.to add customer
+2.list all customers
+3.to delete the customer
+2
+List of customers......
+==================================================================
+customerId	customerName	customerEmail	customerPhn
+==================================================================
+803462		Ryupa		rupamay1996@gmail.com		8523875041
+1265		Rubbu		rubbu1996@gmail.com		9391390950
+Enter 'y' to continue the loop....
+y
+Enter the option number .....
+1.to add customer
+2.list all customers
+3.to delete the customer
+3
+Enter the customer id to remove...
+803462
+Customer removed successfully
+Enter 'y' to continue the loop....
+y
+Enter the option number .....
+1.to add customer
+2.list all customers
+3.to delete the customer
+2
+List of customers......
+==================================================================
+customerId	customerName	customerEmail	customerPhn
+==================================================================
+1265		Rubbu		rubbu1996@gmail.com		9391390950
+Enter 'y' to continue the loop....
